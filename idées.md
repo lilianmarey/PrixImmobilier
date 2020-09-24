@@ -6,6 +6,12 @@ infos sur DVF : https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncier
 
 infos sur adresses : https://github.com/etalab/adresse.data.gouv.fr/blob/master/public/schemas/adresses-csv.md
 
+Paramètres à faire varier :
+- prix max des appartements
+- prix minimal
+- taille minimale de l'appartement
+- taille max ?
+
 A faire : 
 
 - statistiques descriptives (quand ?)
