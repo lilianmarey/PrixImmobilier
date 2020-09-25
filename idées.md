@@ -16,7 +16,10 @@ A faire :
 
 - statistiques descriptives (quand ?)
 - utiliser géopandas (afficher les apparts)
+- calculer r pour les regressions linéaires
+
 
 - stations de metro
 - monuments
+- jardins/espaces verts
 
