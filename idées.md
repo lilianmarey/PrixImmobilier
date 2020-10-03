@@ -6,6 +6,10 @@ infos sur DVF : https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncier
 
 infos sur adresses : https://github.com/etalab/adresse.data.gouv.fr/blob/master/public/schemas/adresses-csv.md
 
+infos sur la fréquentation des stations métros/rer : https://dataratp2.opendatasoft.com/explore/dataset/trafic-annuel-entrant-par-station-du-reseau-ferre-2019/download/?format=csv&timezone=Europe/Berlin&lang=fr&use_labels_for_header=true&csv_separator=%3B
+
+infos sur les coordonnées GPS des stations métros/rer/train : https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf/download/?format=csv&timezone=Europe/Berlin&lang=fr&use_labels_for_header=true&csv_separator=%3B
+
 Paramètres à faire varier :
 - prix max des appartements
 - prix minimal
