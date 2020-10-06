@@ -16,14 +16,14 @@ Paramètres à faire varier :
 - taille minimale de l'appartement
 - taille max ?
 
-A faire : 
+Variables à ajouter : 
 
-- statistiques descriptives (quand ?)
-- utiliser géopandas (afficher les apparts)
-- calculer r pour les regressions linéaires
+- proximité aux monuments
+    création d'un indice rendant compte : du nombre de monuments proches, de leur popularité, de leur proximité avec ces monuments
+- idem stations de metro
+- ligne de metro la plus proche
+- longueur/largeur de la rue
+- popularité de la rue
+- proximité aux jardins et espaces verts
 
-
-- stations de metro
-- monuments
-- jardins/espaces verts
 
