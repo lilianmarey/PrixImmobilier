@@ -10,6 +10,13 @@ infos sur la fréquentation des stations métros/rer : https://dataratp2.opendat
 
 infos sur les coordonnées GPS des stations métros/rer/train : https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf/download/?format=csv&timezone=Europe/Berlin&lang=fr&use_labels_for_header=true&csv_separator=%3B
 
+date de construction des immeubles : https://opendata.apur.org/datasets/emprise-batie-paris/data?selectedAttribute=n_sq_pc
+
+Fiche descriptive : https://geocatalogue.apur.org/catalogue/srv/fre/catalog.search#/metadata/28f07fd4-937b-4489-9331-90b4602d8cab
+
+
+
+
 Paramètres à faire varier :
 - prix max des appartements
 - prix minimal
@@ -25,5 +32,6 @@ Variables à ajouter :
 - longueur/largeur de la rue
 - popularité de la rue
 - proximité aux jardins et espaces verts
+
 
 
