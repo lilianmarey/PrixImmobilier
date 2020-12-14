@@ -45,3 +45,29 @@ PrixImmobilier
     |---- data                          : Bases de données utilisées au cours du projet  
     |  
     |____ README.md     
+    
+    
+## Sources
+
+DVF : https://www.data.gouv.fr/fr/datasets/r/3004168d-bec4-44d9-a781-ef16f41856a2 (info : https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)    
+  
+Date de construction du bâtis : https://opendata.apur.org/datasets/emprise-batie-paris/data?selectedAttribute=n_sq_pc  
+  
+Parcelle cadastrale : https://opendata.apur.org/datasets/c38cf1e31205484ca9014e35132789cc_0  
+  
+Coordonnées GPS : https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/adresses-75.csv.gz  
+  
+Quartier administratif : https://opendata.apur.org/datasets/quartier-de-paris  
+  
+Espaces verts : https://opendata.paris.fr/explore/dataset/espaces_verts/information/  
+  
+Monuments : http://pro.visitparisregion.com/chiffres-tourisme-paris-ile-de-france/frequentation-touristique-paris/Bilans/Bilan-de-l-annee-touristique-2019-a-Paris-Ile-de-France (construite à la main)  
+
+
+
+
+
+
+
+
+
