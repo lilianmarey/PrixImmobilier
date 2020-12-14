@@ -28,7 +28,8 @@ Les modèles utilisés sont :
 - Regression pénalisée (ElasticNet)
 - Regression avec Random Forest
 - Réseaux de neurones.   
-
+  
+  
 + ACP et clustering.   
 
 
