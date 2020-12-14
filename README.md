@@ -40,7 +40,7 @@ PrixImmobilier
     |  
     |---- enrichissement_BDD.ipynb      : Enrichissement de la base de données DVF en ajoutant des variables  
     |  
-    |---- ML.ipynb                      : Modélisation de la base enrichie et analyse des résultats  
+    |---- modelisation.ipynb            : Modélisation de la base enrichie et analyse des résultats  
     |  
     |---- data                          : Bases de données utilisées au cours du projet  
     |  
