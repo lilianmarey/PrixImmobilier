@@ -44,6 +44,8 @@ PrixImmobilier
     |  
     |---- data                          : Bases de données utilisées au cours du projet  
     |  
+    |---- img                           : images de sauvegarde de graphes
+    |  
     |____ README.md     
     
     
